@@ -4,7 +4,7 @@ A beautiful, minimal, and eye-soothing weather application built with React and 
 
 ## Live Demo 🌐
 
-https://react-weather-app-one-peach.vercel.app/
+https://sprightly-meringue-82b297.netlify.app/
 
 ## Features ✨
 
